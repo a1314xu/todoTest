@@ -1,2 +1,2 @@
 # todoTest
-a simple todo application demo
+a simple angular todo application demo
